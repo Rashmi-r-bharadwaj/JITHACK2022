@@ -1,0 +1,1 @@
+We have built a standalone desktop application that helps to send bulk mail with the help of pandas library and sends mail by retrieving the data from Excel Sheet and you can also send whatsapp messages as well using this interface.
